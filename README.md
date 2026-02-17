@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Tarang 👋
 
-<!--
-**Tarang001/Tarang001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Engineering student passionate about building real-world tech solutions  
+🧠 Interests: Backend systems, ML models, Agentic AI  
+🛠️ Tech: PERN stack, Python, Flask, SQL, ML, APIs  
 
-Here are some ideas to get you started:
+## 🔥 What I Build
+- Production-style backend applications
+- ML models with real datasets
+- AI agents that automate workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach Me
+- LinkedIn: https://www.linkedin.com/in/tarang001
+- Email: starang526@gmail.com
