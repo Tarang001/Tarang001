@@ -1,7 +1,7 @@
 # Hi, I'm Tarang 👋
 
 🚀 Engineering student passionate about building real-world tech solutions  
-🧠 Interests: Backend systems, ML models, Agentic AI  
+🧠 Interests: Backend systems, ML models, Agentic AI, RAG, Orchestration, MCP
 🛠️ Tech: PERN stack, Python, Flask, SQL, ML, APIs  
 
 ## 🔥 What I Build
